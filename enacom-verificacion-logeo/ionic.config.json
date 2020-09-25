@@ -1,0 +1,7 @@
+{
+  "name": "enacom-verificacion-logeo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
