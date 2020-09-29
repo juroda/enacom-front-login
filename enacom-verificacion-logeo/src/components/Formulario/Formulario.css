@@ -2,3 +2,21 @@
    height: 20vh;
    width: auto;
 }
+main {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    padding: 10px;
+    transform: translateY(-50%);
+  }
+  
+  .container strong {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  
+  .container a {
+    text-decoration: none;
+  }
